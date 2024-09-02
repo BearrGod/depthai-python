@@ -228,7 +228,7 @@ The scripts depend on any other dependancies. Make sure to install the requireme
 ```sh
 sudo apt install python3-pip
 cd [/path/to/this/folder]
-sudo python3 -m pip install -r requirements.txt
+sudo python3 -m pip install -r utilities/requirements.txt
 ```
     
 ### Execution and Disgnostic
